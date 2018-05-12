@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/868
     wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23871#A-Little-Union-Scout
 gutenberg_bookshelf:
 - US Civil War
 - Children's Literature
